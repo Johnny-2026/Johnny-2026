@@ -30,7 +30,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-00599C?style=flat&logo=serverless&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20(Basic)-00599C?style=flat&logo=serverless&logoColor=white)
 
 > 熟悉 Java / Spigot 服务端开发  
 > 了解 Python、HTML 与传统后端开发，用于工具、接口与辅助系统
