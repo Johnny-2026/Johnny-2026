@@ -16,13 +16,13 @@
 
 ##  经历
 
--  **PixelFuture** 创始人 & 腐竹
-  > 负责核心玩法设计、插件开发与服务器架构  
+-  **PixelFuture[已关服]** 创始人 & 腐竹
+  > 核心玩法开发者,底层架构优化,实现20人在线带宽占用<8m
 -  **Moon Jump Dev** 联合创始人  
 
 ---
 
-## 🛠 技术栈
+##  技术栈
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-FFAA00?style=flat)
@@ -33,7 +33,7 @@
 ![Backend](https://img.shields.io/badge/Backend%20(Basic)-00599C?style=flat&logo=serverless&logoColor=white)
 
 > 熟悉 Java / Spigot 服务端开发  
-> 了解 Python、HTML 与传统后端开发，用于工具、接口与辅助系统
+> 略懂 Python、HTML 与传统后端开发，能在ai工具的辅助下完成中等项目
 
 ---
 
