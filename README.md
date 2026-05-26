@@ -33,7 +33,7 @@
 ![Backend](https://img.shields.io/badge/Backend%20(Basic)-00599C?style=flat&logo=serverless&logoColor=white)
 
 > 熟悉 Java / Spigot 服务端开发  
-> 略懂 Python、HTML 与传统后端开发，能在ai工具的辅助下完成中等项目
+> 略懂 Python、HTML 与传统后端开发，能在ai工具的辅助下完成中等难度项目
 
 ---
 
