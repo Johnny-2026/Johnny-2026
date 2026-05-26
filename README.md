@@ -1,10 +1,10 @@
-# 👋 你好，我是 Johnny
+#  你好，我是 Johnny
 
 专注 **Minecraft 服务端架构**、**云原生插件注入** 与 **代码混淆保护**。
 
 ---
 
-## 🚀 主要项目
+##  主要项目
 
 | 项目 | 简介 |
 |-----|------|
@@ -14,29 +14,30 @@
 
 ---
 
-## 🧱 经历
+##  经历
 
-- 🎮 **PixelFuture** 创始人 & 腐竹  
-  > 负责整体玩法设计、核心系统开发及社区运营  
-- 🤝 **Moon Jump Dev** 联合创始人  
+-  **PixelFuture** 创始人 & 腐竹
+  > 负责核心玩法设计、插件开发与服务器架构  
+-  **Moon Jump Dev** 联合创始人  
 
 ---
 
 ## 🛠 技术栈
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java)
-![Spigot](https://img.shields.io/badge/-Spigot-FFAA00?style=flat-square)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?style=flat-square&logo=gradle)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-FFAA00?style=flat)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-00599C?style=flat&logo=serverless&logoColor=white)
 
 > 熟悉 Java / Spigot 服务端开发  
-> 了解 Python 与前端基础，用于辅助工具与自动化脚本
+> 了解 Python、HTML 与传统后端开发，用于工具、接口与辅助系统
 
 ---
 
-## 📫 联系我
+##  联系我
 
 - GitHub: [@Johnny-2026](https://github.com/Johnny-2026)
 - QQ: `3762390382`
