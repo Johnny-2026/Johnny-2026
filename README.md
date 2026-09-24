@@ -20,6 +20,7 @@ Focused on **Minecraft Server Architecture**, **Cloud-Native Plugin Injection**,
 - **PixelFuture [Shut Down]** Founder & Server Owner
   > Core gameplay development and low-level architecture optimization; achieved **< 8 Mbps** bandwidth usage with 20 concurrent players
 - **Moon Jump Dev** Co-Founder — building at [moonjump.club](https://moonjump.club)
+- **TinyPX Development** — member/dev at [TinyPx](https://github.com/TinypxNetwork)
 
 ---
 
@@ -29,17 +30,19 @@ Focused on **Minecraft Server Architecture**, **Cloud-Native Plugin Injection**,
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spigot](https://img.shields.io/badge/Spigot-FFAA00?style=flat)
+![Velocity](https://img.shields.io/badge/Velocity-1C1C1C?style=flat)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![eBPF/XDP](https://img.shields.io/badge/eBPF%2FXDP-2E8B57?style=flat)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend%20(Basic)-00599C?style=flat&logo=serverless&logoColor=white)
 
-> Familiar with Java / Spigot server development  
-> Working knowledge of C, Rust, Python, HTML, and traditional backend development (MySQL / Redis / MongoDB); able to complete medium-difficulty projects with the assistance of AI tools
+> Familiar with Java / Spigot / Velocity server development  
+> Working knowledge of C, Rust, Python, HTML, eBPF/XDP, and traditional backend development (MySQL / Redis / MongoDB); able to complete medium-difficult projects with the assistance of AI tools
 
 ---
 
