@@ -21,4 +21,5 @@
 
 - GitHub: [@Johnny-2026](https://github.com/Johnny-2026)
 - QQ: `3762390382`
+- TG: '[t.me/@Johnny261021](https://t.me/Johnny261021)'
 
