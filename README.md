@@ -23,4 +23,4 @@ Focused on **Minecraft Server Architecture**, **Cloud-Native Plugin Injection**,
 
 - GitHub: [@Johnny-2026](https://github.com/Johnny-2026)
 - QQ: `3762390382`
-- Website: [moonjump.club](https://moonjump.club) — check out what Moon Jump Dev is building
+
