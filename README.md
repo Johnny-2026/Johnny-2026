@@ -19,11 +19,6 @@ Focused on **Minecraft Server Architecture**, **Cloud-Native Plugin Injection**,
 
 ---
 
-![Johnny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Johnny-2026&show_icons=true&theme=transparent&bg_color=00000000)
-![Johnny's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-2026&layout=compact&theme=transparent&bg_color=00000000)
-
----
-
 ## Contact Me
 
 - GitHub: [@Johnny-2026](https://github.com/Johnny-2026)
