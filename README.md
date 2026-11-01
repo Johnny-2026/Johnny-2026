@@ -1,6 +1,5 @@
 # Hello, I'm Johnny
 
-Focused on **Minecraft Server Architecture**, **Cloud-Native Plugin Injection**, and **Code Copyright Protection**.
 
 > **On open source**: Most of my work lives in private repositories, mostly for business and IP reasons 
 ---
